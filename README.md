@@ -2,11 +2,10 @@
 
 ## Übersicht
 Dieses Projekt erweitert das Huge Framework um eine Messenger-Anwendung, bei der alle SQL-Abfragen durch Stored Procedures ersetzt wurden, um die Sicherheit und Wartbarkeit zu verbessern:
-- Nachrichtenversand zwischen Benutzern.
+- Nachrichtenarchiv in der Datenbank
 - Verwendung von Stored Procedures zur Optimierung der Datenbankabfragen.
 
 ## Features
-- **Nachrichtenversand:** Benutzer können Nachrichten über einen Messenger senden.
 - **Stored Procedures:** Ersetzt direkte SQL-Befehle durch Stored Procedures.
 - **Nachrichtenarchiv:** Alle Nachrichten werden in der Datenbank gespeichert und können eingesehen werden.
 
