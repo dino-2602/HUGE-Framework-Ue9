@@ -57,12 +57,14 @@ Nachher:
 #### **Nachricht als gelesen markieren**
 Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read.png)
+
 Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read_new.png)
 
 #### **Neue Nachricht in der Tabelle speichern**
 Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle.png)
+
 Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle_new.png)
 
