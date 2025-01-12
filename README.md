@@ -35,9 +35,6 @@ Dieses Projekt erweitert das Huge Framework um eine Messenger-Anwendung, bei der
 3. **Frontend-Integration:**
    - Sicherstellen, dass die Benutzeroberfläche mit den Änderungen kompatibel bleibt.
 
-4. **Problem lösen: Doppelte Nachrichten:**
-   - In der `MessengerModel.php` wurden doppelte `query->execute()`-Aufrufe entfernt.
-
 ## Screenshots
 
 ### **Vorher-Nachher Vergleich der Code-Integration**
