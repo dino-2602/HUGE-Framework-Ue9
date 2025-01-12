@@ -41,36 +41,36 @@ Dieses Projekt erweitert das Huge Framework um eine Messenger-Anwendung, bei der
 
 #### **Abfrage von Benutzerdaten (Namen des Absenders und Empfängers)**
 Vorher:
-![Vorher](./path_to_images/abfrage_benutzerdaten_namen_des_absenders_und_empfaengers.png)
+![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/abfrage_benutzerdaten_namen%20des%20absenders%20und%20empfaengers.png)
 Nachher:
-![Nachher](./path_to_images/abfrage_benutzerdaten_namen_des_absenders_und_empfaengers_new.png)
+![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/abfrage_benutzerdaten_namen%20des%20absenders%20und%20empfaengers_new.png)
 
 #### **Zählen ungelesener Nachrichten**
 Vorher:
-![Vorher](./path_to_images/count_unread_messages.png)
+![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/count_unread_messages.png)
 Nachher:
-![Nachher](./path_to_images/count_unread_messages_new.png)
+![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/count_unread_messages_new.png)
 
 #### **Stored Procedures in der Datenbank**
-![Stored Procedures](./path_to_images/huge_db_stored_procedures.png)
+![Stored Procedures](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/huge_db_stored_procedures.png)
 
 #### **Nachricht als gelesen markieren**
 Vorher:
-![Vorher](./path_to_images/mark_messages_as_read.png)
+![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read.png)
 Nachher:
-![Nachher](./path_to_images/mark_messages_as_read_new.png)
+![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read_new.png)
 
 #### **Neue Nachricht in der Tabelle speichern**
 Vorher:
-![Vorher](./path_to_images/neue_message_in_tabelle.png)
+![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle.png)
 Nachher:
-![Nachher](./path_to_images/neue_message_in_tabelle_new.png)
+![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle_new.png)
 
 ## Code-Referenzen
 
-- [Messenger Controller](./path_to_repository/application/controller/MessengerController.php)
-- [Model](./path_to_repository/application/model/MessengerModel.php)
-- [View Messenger Index](./path_to_repository/application/view/messenger/index.php)
+- [Messenger Controller](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/application/controller/MessengerController.php)
+- [Messenger Model](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/application/model/MessengerModel.php)
+- [View Messenger Index](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/application/view/messenger/index.php)
 
 ## Installation
 
