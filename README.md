@@ -39,35 +39,36 @@ Dieses Projekt erweitert das Huge Framework um eine Messenger-Anwendung, bei der
 
 ### **Vorher-Nachher Vergleich der Code-Integration**
 
-#### **Abfrage von Benutzerdaten (Namen des Absenders und Empfängers)**
-### Vorher:
+### **Abfrage von Benutzerdaten (Namen des Absenders und Empfängers)**
+
+#### Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/abfrage_benutzerdaten_namen%20des%20absenders%20und%20empfaengers.png)
 
-- Nachher:
+#### Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/abfrage_benutzerdaten_namen%20des%20absenders%20und%20empfaengers_new.png)
 
 #### **Zählen ungelesener Nachrichten**
-- Vorher:
+#### Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/count_unread_messages.png)
 
-- Nachher:
+#### Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/count_unread_messages_new.png)
 
 #### **Stored Procedures in der Datenbank**
 ![Stored Procedures](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/huge_db_stored_procedures.png)
 
 #### **Nachricht als gelesen markieren**
-- Vorher:
+#### Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read.png)
 
-- Nachher:
+#### Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/mark_messages_as_read_new.png)
 
 #### **Neue Nachricht in der Tabelle speichern**
-- Vorher:
+#### Vorher:
 ![Vorher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle.png)
 
-- Nachher:
+#### Nachher:
 ![Nachher](https://github.com/dino-2602/HUGE-Framework-Ue9/blob/main/huge/screenshots/neue_message_in_tabelle_new.png)
 
 ## Code-Referenzen
